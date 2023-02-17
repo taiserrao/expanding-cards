@@ -11,6 +11,7 @@ Expanding Cards is an HTML, CSS and JavaScript webpage project at my learning jo
 The project consists of a web page with The Last of Us theme where the user is able to select an image card for viewing.
 
 ## Layout web
+![Web 1](https://github.com/taiserrao/expanding-cards/blob/33cb994be0689e33b57078c5c17b06558dc9be79/images/taiserrao.github.io.png)
 
 # Used Tecnology
 ## Front end
