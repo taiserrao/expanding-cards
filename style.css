@@ -14,9 +14,23 @@ body {
    margin: 0;
 }
 
+header {
+    justify-content: center;
+    position: fixed;
+    top:0;
+}
+  
+.logo {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+}
+
 .container {
    display: flex;
    width: 90vw;
+   padding-top: 100px;
 }
 
 .panel {
