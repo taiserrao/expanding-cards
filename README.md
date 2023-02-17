@@ -18,7 +18,7 @@ The project consists of a web page with The Last of Us theme where the user is a
 - CSS
 - JavaScript
 
-# Autor
+## Autor
 
 Taiane Serrão
 
